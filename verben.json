@@ -1,0 +1,26 @@
+[
+  {
+    "polish_infinitive": "być",
+    "german_infinitive": "sein",
+    "praeteritum": "war",
+    "perfekt": "ist gewesen"
+  },
+  {
+    "polish_infinitive": "stawać się",
+    "german_infinitive": "werden",
+    "praeteritum": "wurde",
+    "perfekt": "ist geworden"
+  },
+  {
+    "polish_infinitive": "strzelać",
+    "german_infinitive": "schießen",
+    "praeteritum": "schoss",
+    "perfekt": "hat geschossen"
+  },
+  {
+    "polish_infinitive": "jeść",
+    "german_infinitive": "essen",
+    "praeteritum": "aß",
+    "perfekt": "hat gegessen"
+  }
+]
