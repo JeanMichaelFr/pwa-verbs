@@ -11,6 +11,163 @@
     "praeteritum": "wurde",
     "perfekt": "ist geworden"
   },
+ {
+    "polish_infinitive": "skręcać",
+    "german_infinitive": "abbiegen",
+    "praeteritum": "bog ab",
+    "perfekt": "ist abgebogen"
+  },
+ {
+    "polish_infinitive": "nadchodzić",
+    "german_infinitive": "ankommen",
+    "praeteritum": "kam an",
+    "perfekt": "ist angekommen"
+  },
+ {
+    "polish_infinitive": "nie kłaść się spać",
+    "german_infinitive": "aufbleiben",
+    "praeteritum": "blieb auf",
+    "perfekt": "ist aufgeblieben"
+  },
+ {
+    "polish_infinitive": "wstawać",
+    "german_infinitive": "aufstehen",
+    "praeteritum": "stand auf",
+    "perfekt": "ist aufgestanden"
+  },
+ {
+    "polish_infinitive": "wysiadać",
+    "german_infinitive": "aussteigen",
+    "praeteritum": "stieg aus",
+    "perfekt": "ist ausgestiegen"
+  },
+{
+    "polish_infinitive": "pozostawać",
+    "german_infinitive": "bleiben",
+    "praeteritum": "blieb",
+    "perfekt": "ist geblieben"
+  },
+{
+    "polish_infinitive": "zasypiać",
+    "german_infinitive": "einschlafen",
+    "praeteritum": "schlief ein",
+    "perfekt": "ist eingeschlafen"
+  },
+{
+    "polish_infinitive": "wsiadać",
+    "german_infinitive": "einsteigen",
+    "praeteritum": "stieg ein",
+    "perfekt": "ist eingestiegen"
+  },
+{
+    "polish_infinitive": "jeździć",
+    "german_infinitive": "fahren",
+    "praeteritum": "fuhr",
+    "perfekt": "ist gefahren"
+  },
+{
+    "polish_infinitive": "padać spadać",
+    "german_infinitive": "fallen",
+    "praeteritum": "fiel",
+    "perfekt": "ist gefallen"
+  },
+{
+    "polish_infinitive": "latać",
+    "german_infinitive": "fliegen",
+    "praeteritum": "flog",
+    "perfekt": "ist geflogen"
+  },
+{
+    "polish_infinitive": "uciekać",
+    "german_infinitive": "fliehen",
+    "praeteritum": "floh",
+    "perfekt": "ist geflohen"
+  },
+
+{
+    "polish_infinitive": "chodzić",
+    "german_infinitive": "gehen",
+    "praeteritum": "ging",
+    "perfekt": "ist gegengen"
+  },
+{
+    "polish_infinitive": "przychodzić",
+    "german_infinitive": "kommen",
+    "praeteritum": "kam",
+    "perfekt": "ist gekommem"
+  },
+{
+    "polish_infinitive": "biegać",
+    "german_infinitive": "laufen",
+    "praeteritum": "lief",
+    "perfekt": "ist gelaufen"
+  },
+{
+    "polish_infinitive": "wychodzić",
+    "german_infinitive": "rausgehen",
+    "praeteritum": "ging raus",
+    "perfekt": "ist rausgegangen"
+  },
+{
+    "polish_infinitive": "jeździć konno",
+    "german_infinitive": "reiten",
+    "praeteritum": "ritt",
+    "perfekt": "ist geritten"
+  },
+{
+    "polish_infinitive": "pływać",
+    "german_infinitive": "schwimmen",
+    "praeteritum": "schwamm",
+    "perfekt": "ist geschwommen"
+  },
+{
+    "polish_infinitive": "być",
+    "german_infinitive": "sein",
+    "praeteritum": "war",
+    "perfekt": "ist gewesen"
+  },
+{
+    "polish_infinitive": "wchodzić podnosić się ",
+    "german_infinitive": "steigen",
+    "praeteritum": "stieg",
+    "perfekt": "ist gestiegen"
+  },
+{
+    "polish_infinitive": "umierać",
+    "german_infinitive": "sterben",
+    "praeteritum": "starb",
+    "perfekt": "ist gestorben"
+  },
+{
+    "polish_infinitive": "przeprowadzać się",
+    "german_infinitive": "umziehen",
+    "praeteritum": "zog um",
+    "perfekt": "ist umgezogen"
+  },
+{
+    "polish_infinitive": "wpadać do kogoś",
+    "german_infinitive": "vorbeikommen",
+    "praeteritum": "kam vorbei",
+    "perfekt": "ist vorbeigekommen"
+  },
+{
+    "polish_infinitive": "wychodzić",
+    "german_infinitive": "weggehen",
+    "praeteritum": "ging weg",
+    "perfekt": "ist weggegangen"
+  },
+{
+    "polish_infinitive": "stawać się, robić się",
+    "german_infinitive": "werden",
+    "praeteritum": "wurde",
+    "perfekt": "ist geworden"
+  },
+{
+    "polish_infinitive": "jechać z powrotem",
+    "german_infinitive": "zurückfahren",
+    "praeteritum": "fuhr zurück",
+    "perfekt": "ist zurückgefahren"
+  },
 {
     "polish_infinitive": "wydarzyć się",
     "german_infinitive": "passieren",
