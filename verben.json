@@ -88,13 +88,13 @@
     "polish_infinitive": "chodzić",
     "german_infinitive": "gehen",
     "praeteritum": "ging",
-    "perfekt": "ist gegengen"
+    "perfekt": "ist gegangen"
   },
 {
     "polish_infinitive": "przychodzić",
     "german_infinitive": "kommen",
     "praeteritum": "kam",
-    "perfekt": "ist gekommem"
+    "perfekt": "ist gekommen"
   },
 {
     "polish_infinitive": "biegać",
@@ -282,6 +282,12 @@
     "german_infinitive": "geben",
     "praeteritum": "gab",
     "perfekt": "hat gegeben"
+  },
+{
+    "polish_infinitive": "podobać się",
+    "german_infinitive": "gefallen",
+    "praeteritum": "gefiel",
+    "perfekt": "hat gefallen"
   },
 {
     "polish_infinitive": "mieć",
