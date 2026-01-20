@@ -185,11 +185,328 @@
 
 
   {
+    "polish_infinitive": "obcinać",
+    "german_infinitive": "abschneiden",
+    "praeteritum": "schnitt ab",
+    "perfekt": "hat abgeschnitten"
+  },
+{
+    "polish_infinitive": "oferować",
+    "german_infinitive": "anbieten",
+    "praeteritum": "bot an",
+    "perfekt": "hat angeboten"
+  },
+{
+    "polish_infinitive": "oglądać sobie",
+    "german_infinitive": "sich ansehen",
+    "praeteritum": "sah sich an",
+    "perfekt": "hat sich angesehen"
+  },
+{
+    "polish_infinitive": "ubierać się",
+    "german_infinitive": "sich anziehen",
+    "praeteritum": "zog sich an",
+    "perfekt": "hat sich angezogen"
+  },
+{
+    "polish_infinitive": "wymyślać",
+    "german_infinitive": "ausdenken",
+    "praeteritum": "dachte aus",
+    "perfekt": "hat sich ausgedacht"
+  },
+{
+    "polish_infinitive": "wyglądać",
+    "german_infinitive": "aussehen",
+    "praeteritum": "sah aus",
+    "perfekt": "hat ausgesehen"
+  },
+{
+    "polish_infinitive": "zaczynać",
+    "german_infinitive": "beginnen",
+    "praeteritum": "begann",
+    "perfekt": "hat begonnen"
+  },
+{
+    "polish_infinitive": "postanowić",
+    "german_infinitive": "beschließen",
+    "praeteritum": "beschloss",
+    "perfekt": "hat beschlossen"
+  },
+{
+    "polish_infinitive": "poruszać",
+    "german_infinitive": "sich bewegen",
+    "praeteritum": "bewog",
+    "perfekt": "hat bewogen"
+  },
+{
+    "polish_infinitive": "przynosić",
+    "german_infinitive": "bringen",
+    "praeteritum": "brachte",
+    "perfekt": "hat gebracht"
+  },
+{
+    "polish_infinitive": "myśleć",
+    "german_infinitive": "denken",
+    "praeteritum": "dachte",
+    "perfekt": "hat gedacht"
+  },
+{
+    "polish_infinitive": "zapraszać",
+    "german_infinitive": "einladen",
+    "praeteritum": "lud ein",
+    "perfekt": "hat eingeladen"
+  },
+{
+    "polish_infinitive": "polecać",
+    "german_infinitive": "empfehlen",
+    "praeteritum": "empfahl",
+    "perfekt": "hat empfohlen"
+  },
+{
+    "polish_infinitive": "jeść",
+    "german_infinitive": "essen",
+    "praeteritum": "aß",
+    "perfekt": "hat gegessen"
+  },
+{
+    "polish_infinitive": "łapać",
+    "german_infinitive": "fangen",
+    "praeteritum": "fing",
+    "perfekt": "hat gefangen"
+  },
+{
+    "polish_infinitive": "znajdować",
+    "german_infinitive": "finden",
+    "praeteritum": "fand",
+    "perfekt": "hat gefunden"
+  },
+{
+    "polish_infinitive": "dawać",
+    "german_infinitive": "geben",
+    "praeteritum": "gab",
+    "perfekt": "hat gegeben"
+  },
+{
+    "polish_infinitive": "mieć",
+    "german_infinitive": "haben",
+    "praeteritum": "hatte",
+    "perfekt": "hat gehabt"
+  },
+{
+    "polish_infinitive": "trzymać zatrzymywać się",
+    "german_infinitive": "halten",
+    "praeteritum": "hielt",
+    "perfekt": "hat gehalten"
+  },
+{
+    "polish_infinitive": "wisieć",
+    "german_infinitive": "hängen",
+    "praeteritum": "hing",
+    "perfekt": "hat gehangen"
+  },
+{
+    "polish_infinitive": "nazywać się",
+    "german_infinitive": "heißen",
+    "praeteritum": "hieß",
+    "perfekt": "hat geheißen"
+  },
+{
+    "polish_infinitive": "pomagać",
+    "german_infinitive": "helfen",
+    "praeteritum": "half",
+    "perfekt": "hat geholfen"
+  },
+{
+    "polish_infinitive": "znać",
+    "german_infinitive": "kennen",
+    "praeteritum": "kannte",
+    "perfekt": "hat gekannt"
+  },
+{
+    "polish_infinitive": "zostawiać zlecać",
+    "german_infinitive": "lassen",
+    "praeteritum": "ließ",
+    "perfekt": "hat gelassen"
+  },
+{
+    "polish_infinitive": "leżeć",
+    "german_infinitive": "liegen",
+    "praeteritum": "lag",
+    "perfekt": "hat gelegen"
+  },
+{
+    "polish_infinitive": "zastanawiać się",
+    "german_infinitive": "nachdenken",
+    "praeteritum": "dachte nach",
+    "perfekt": "hat nachgedacht"
+  },
+{
+    "polish_infinitive": "brać",
+    "german_infinitive": "nehmen",
+    "praeteritum": "nahm",
+    "perfekt": "hat genommen"
+  },
+{
+    "polish_infinitive": "wołać",
+    "german_infinitive": "rufen",
+    "praeteritum": "rief",
+    "perfekt": "hat gerufen"
+  },
+{
+    "polish_infinitive": "wydawać się świecić",
+    "german_infinitive": "scheinen",
+    "praeteritum": "schien",
+    "perfekt": "hat geschienen"
+  },
+{
     "polish_infinitive": "strzelać",
     "german_infinitive": "schießen",
     "praeteritum": "schoss",
     "perfekt": "hat geschossen"
   },
+{
+    "polish_infinitive": "spać",
+    "german_infinitive": "schlafen",
+    "praeteritum": "schlief",
+    "perfekt": "hat geschlafen"
+  },
+{
+    "polish_infinitive": "zamykać",
+    "german_infinitive": "schließen",
+    "praeteritum": "schloss",
+    "perfekt": "hat geschlossen"
+  },
+{
+    "polish_infinitive": "widzieć",
+    "german_infinitive": "sehen",
+    "praeteritum": "sah",
+    "perfekt": "hat gesehen"
+  },
+{
+    "polish_infinitive": "śpiewać",
+    "german_infinitive": "singen",
+    "praeteritum": "sang",
+    "perfekt": "hat gesungen"
+  },
+{
+    "polish_infinitive": "siedzieć",
+    "german_infinitive": "sitzen",
+    "praeteritum": "saß",
+    "perfekt": "hat gesessen"
+  },
+{
+    "polish_infinitive": "mówić",
+    "german_infinitive": "sprechen",
+    "praeteritum": "sprach",
+    "perfekt": "hat gesprochen"
+  },
+{
+    "polish_infinitive": "stać",
+    "german_infinitive": "stehen",
+    "praeteritum": "stand",
+    "perfekt": "hat gestanden"
+  },
+{
+    "polish_infinitive": "nosić",
+    "german_infinitive": "tragen",
+    "praeteritum": "trug",
+    "perfekt": "hat getragen"
+  },
+{
+    "polish_infinitive": "spotykać się",
+    "german_infinitive": "sich treffen",
+    "praeteritum": "traf sich",
+    "perfekt": "hat getroffen"
+  },
+{
+    "polish_infinitive": "pić",
+    "german_infinitive": "trinken",
+    "praeteritum": "trank",
+    "perfekt": "hat getrunken"
+  },
+{
+    "polish_infinitive": "robić",
+    "german_infinitive": "tun",
+    "praeteritum": "tat",
+    "perfekt": "hat getan"
+  },
+{
+    "polish_infinitive": "przedsięwziąć",
+    "german_infinitive": "unternehmen",
+    "praeteritum": "unternahm",
+    "perfekt": "hat unternommen"
+  },
+{
+    "polish_infinitive": "zabraniać",
+    "german_infinitive": "verbieten",
+    "praeteritum": "verbot",
+    "perfekt": "hat verboten"
+  },
+{
+    "polish_infinitive": "zapominać",
+    "german_infinitive": "vergessen",
+    "praeteritum": "vergaß",
+    "perfekt": "hat vergessen"
+  },
+{
+    "polish_infinitive": "zachowywać się",
+    "german_infinitive": "sich verhalten",
+    "praeteritum": "verhielt sich",
+    "perfekt": "hat sich verhalten"
+  },
+{
+    "polish_infinitive": "opuszczać",
+    "german_infinitive": "verlassen",
+    "praeteritum": "verließ",
+    "perfekt": "hat verlassen"
+  },
+{
+    "polish_infinitive": "tracić gubić przegrywać",
+    "german_infinitive": "verlieren",
+    "praeteritum": "verlor",
+    "perfekt": "hat verloren"
+  },
+{
+    "polish_infinitive": "przepisywać",
+    "german_infinitive": "verschreiben",
+    "praeteritum": "verschrieb",
+    "perfekt": "hat verschrieben"
+  },
+{
+    "polish_infinitive": "myć się",
+    "german_infinitive": "sich waschen",
+    "praeteritum": "wusch sich",
+    "perfekt": "hat sich gewaschen"
+  },
+
+    "polish_infinitive": "rzucać",
+    "german_infinitive": "werfen",
+    "praeteritum": "warf",
+    "perfekt": "hat geworfen"
+  },
+{
+    "polish_infinitive": "wiedzieć",
+    "german_infinitive": "wissen",
+    "praeteritum": "wusste",
+    "perfekt": "hat gewusst"
+  },
+{
+    "polish_infinitive": "ciągnąć",
+    "german_infinitive": "ziehen",
+    "praeteritum": "zog",
+    "perfekt": "hat gezogen"
+  },
+{
+    "polish_infinitive": "oddawać",
+    "german_infinitive": "zurückgeben",
+    "praeteritum": "gab zurück",
+    "perfekt": "hat zurückgegeben"
+  },
+
+
+
+
+
   {
     "polish_infinitive": "jeść",
     "german_infinitive": "essen",
