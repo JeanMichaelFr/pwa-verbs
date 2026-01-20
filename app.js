@@ -93,20 +93,21 @@ habenBtn.onclick = () => {
 document.addEventListener("touchstart", e => {
   if (!isRunning || isSpeaking) return;
 
+  e.preventDefault(); // 🔥 REQUIRED on mobile
+
   const touchX = e.touches[0].clientX;
   const screenWidth = window.innerWidth;
 
   speechSynthesis.cancel();
 
   if (touchX < screenWidth / 2) {
-    // LEFT SIDE → previous
     currentIndex =
       (currentIndex - 1 + filteredVerbs.length) % filteredVerbs.length;
   } else {
-    // RIGHT SIDE → next
     currentIndex =
       (currentIndex + 1) % filteredVerbs.length;
   }
 
   speakVerb(currentIndex);
-});
+}, { passive: false });
+
