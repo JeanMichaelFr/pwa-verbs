@@ -4,6 +4,7 @@ let currentIndex = 0;
 let currentMode = null;
 let isRunning = false;
 let isSpeaking = false;
+let autoPlay = true;
 
 const display = document.getElementById("display");
 const seinBtn = document.getElementById("seinBtn");
@@ -43,7 +44,7 @@ async function speakVerb(index) {
 
   isSpeaking = false;
 
-  if (isRunning) {
+  if (isRunning && autoPlay) {
     currentIndex = (currentIndex + 1) % filteredVerbs.length;
     speakVerb(currentIndex);
   }
@@ -54,6 +55,7 @@ function startMode(mode) {
 
   currentMode = mode;
   isRunning = true;
+  autoPlay = true;
   display.classList.remove("hidden");
 
   filteredVerbs = verbs.filter(v =>
@@ -68,6 +70,7 @@ function startMode(mode) {
 
 function stopAll() {
   isRunning = false;
+  autoPlay = false;
   isSpeaking = false;
   speechSynthesis.cancel();
   display.classList.add("hidden");
@@ -90,24 +93,26 @@ habenBtn.onclick = () => {
   }
 };
 
-document.addEventListener("touchstart", e => {
-  if (!isRunning || isSpeaking) return;
+/* 🔥 RELIABLE MOBILE NAVIGATION */
+document.addEventListener("pointerdown", e => {
+  if (!isRunning) return;
 
-  e.preventDefault(); // 🔥 REQUIRED on mobile
-
-  const touchX = e.touches[0].clientX;
-  const screenWidth = window.innerWidth;
-
+  e.preventDefault();
+  autoPlay = false;
   speechSynthesis.cancel();
 
-  if (touchX < screenWidth / 2) {
+  const screenWidth = window.innerWidth;
+  const x = e.clientX;
+
+  if (x < screenWidth / 2) {
+    // LEFT → previous
     currentIndex =
       (currentIndex - 1 + filteredVerbs.length) % filteredVerbs.length;
   } else {
+    // RIGHT → next
     currentIndex =
       (currentIndex + 1) % filteredVerbs.length;
   }
 
   speakVerb(currentIndex);
-}, { passive: false });
-
+});
