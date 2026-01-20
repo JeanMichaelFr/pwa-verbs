@@ -478,6 +478,7 @@
     "praeteritum": "wusch sich",
     "perfekt": "hat sich gewaschen"
   },
+{
 
     "polish_infinitive": "rzucać",
     "german_infinitive": "werfen",
@@ -502,12 +503,7 @@
     "praeteritum": "gab zurück",
     "perfekt": "hat zurückgegeben"
   },
-
-
-
-
-
-  {
+{
     "polish_infinitive": "jeść",
     "german_infinitive": "essen",
     "praeteritum": "aß",
