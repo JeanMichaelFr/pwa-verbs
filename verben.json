@@ -11,6 +11,22 @@
     "praeteritum": "wurde",
     "perfekt": "ist geworden"
   },
+{
+    "polish_infinitive": "wydarzyć się",
+    "german_infinitive": "passieren",
+    "praeteritum": "passierte",
+    "perfekt": "ist passiert"
+  },
+
+{
+    "polish_infinitive": "wędrować",
+    "german_infinitive": "wandern",
+    "praeteritum": "wanderte",
+    "perfekt": "ist gewandert"
+  },
+
+
+
   {
     "polish_infinitive": "strzelać",
     "german_infinitive": "schießen",
